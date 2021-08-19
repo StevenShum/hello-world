@@ -1,4 +1,5 @@
 # hello-world
 First repository 
 
-asdasd
+readme-edits
+Hey yo Im steven. Im bad at coding. main
